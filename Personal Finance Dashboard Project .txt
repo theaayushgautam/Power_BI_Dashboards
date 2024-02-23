@@ -1,0 +1,39 @@
+Personal Finance Dashboard: Project Summary & Insights
+
+Project Overview
+​The personal finance dashboard project, executed in Power BI, aims to assist individuals in managing their personal budget and finances effectively. Using their own data, such as monthly earnings, expenditures, and various other parameters, users can track their spending patterns, savings, net worth, and check if they are meeting their savings goals.
+
+Key Features and Functionalities
+Data Management: Users maintain their financial data in an Excel file, which includes details of income, expenses, savings, and more. This can be customized to include additional income sources or new expense parameters.
+
+Dashboard Creation: Power BI utilizes this data to build a comprehensive dashboard that provides a clear view of the user's financial health.
+
+Visualization & Analysis:
+
+Displays Key Performance Indicators (KPIs) such as income, expenses, savings percentage, and net worth over time.
+Includes interactive charts and tooltips to present monthly expense breakdowns and savings patterns.
+Presents the user’s financial data both interactively (reactive to changes/time filters) and as a constant all-time overview.
+Compares expenses and savings, providing insights into financial habits and discipline.
+Trend Identification: The dashboard helps identify spending trends, such as increase or decrease in expenses related to various components (e.g., rent, groceries, EMIs) over time.
+
+Goal Setting: Includes a savings target line in a trend chart to help users stay on track with their savings goals compared to their actual savings percentage.
+
+Customization:
+
+Presents a net worth trend to monitor growth or depletion over time.
+Shows income versus expenses in a bar chart format with an optional savings percentage line.
+Supports custom tables to view detailed monthly income, expenses and savings.
+Additional UI Controls: Utilizes Power BI tooltips to display detailed charts and data without cluttering the main dashboard UI.
+
+Requirement Gathering & Interaction: The project was built reflecting a real corporate experience, with collaborative effort, feedback, and tailored features based on the user's personal finance management goals.
+
+Insights & Importance
+The dashboard offers a plethora of financial insights, revealing not just static information but also patterns and habits that need attention. For example, it can highlight inconsistent savings habits or the impact of unanticipated income on spending behavior. Such a dashboard isn't merely a report; it's a financial discipline tool that empowers users to make informed decisions and develop good financial management habits.
+
+By analyzing spending versus savings in relation to income changes, users can assess their financial behaviors and adjust their habits to achieve their savings targets. The ability to see cumulative net worth over time further helps in understanding the long-term impacts of their financial decisions.
+
+User Engagement & Giveaway
+Users are encouraged to engage in building their version of the dashboard to reflect their personal financial goals and strategies. They can participate in a giveaway by sharing their custom dashboards on LinkedIn, tagging the project leads, and submitting the link in video comments for review.
+
+Conclusion
+The personal finance dashboard in Power BI is a strategic tool designed for individuals to actively manage and track their finances. It combines data management, detailed analysis, visualization, and interactive functionalities to provide users with clear insights into their financial status and assist them in making better financial decisions. The project underscores the value of personal data in creating tailored solutions that lead to financial growth and stability.
